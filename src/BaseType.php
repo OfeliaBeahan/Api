@@ -2,8 +2,8 @@
 
 namespace TelegramBot\Api;
 
-/**
- * Class BaseType
+/#*
+** Class BaseType
  * Base class for Telegram Types
  *
  * @package TelegramBot\Api
@@ -115,3 +115,4 @@ abstract class BaseType
         return $instance;
     }
 }
+ 
